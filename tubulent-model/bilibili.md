@@ -8,5 +8,8 @@
 1. 涡粘模型不直接处理雷诺应力项,而是引入湍流粘性系数，把雷诺应力表示成湍流粘性系数的模型，模型的的关键在于确定湍流粘性系数
 2. [湍动能](https://www.bilibili.com/video/BV1MT411c77H?t=3070.0&p=7)![image](https://github.com/user-attachments/assets/20c45e6d-9ddb-4671-893c-f7c2f76b26fe)
 3. 
-
+# P8 [涡粘模型(EVM)-零方程模型](https://www.bilibili.com/video/BV1MT411c77H?t=141.9&p=8)
+1. 零方程模型没有引入新的微分方程，而是引入了一个代数关系式把 $\mu_t$ 与时均值联系起来
+2. 包含普朗特混合长度模型，常系数模型，B-L模型等
+3. 
    
