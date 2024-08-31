@@ -7,5 +7,6 @@
 ## [涡粘模型(EVM)](https://www.bilibili.com/video/BV1MT411c77H?t=1459.4&p=7)
 1. 涡粘模型不直接处理雷诺应力项,而是引入湍流粘性系数，把雷诺应力表示成湍流粘性系数的模型，模型的的关键在于确定湍流粘性系数
 2. [湍动能](https://www.bilibili.com/video/BV1MT411c77H?t=3070.0&p=7)![image](https://github.com/user-attachments/assets/20c45e6d-9ddb-4671-893c-f7c2f76b26fe)
+3. 
 
    
